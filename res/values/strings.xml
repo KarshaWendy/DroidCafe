@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DroidCafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_dessert">Choose Dessert</string>
+    <string name="donut_desciption">The Donuts Are Glazed</string>
+    <string name="ice_description">The ice-cream is delicious</string>
+    <string name="froyo_description">this is Frozen Yogurt</string>
+    <string name="favorite">favorites</string>
+    <string name="order">order</string>
+    <string name="status">status</string>
+    <string name="order_message">You have selected order</string>
+    <string name="status_message"> you have selected status</string>
+    <string name="favorites_message">you have selected favorites</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
